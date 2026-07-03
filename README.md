@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd Year Software Engineering Student  
+- 🎓 3rd Year Software Engineering Student  
 - 🧠 Strong interest in **backend systems & problem solving**  
 - ⚙️ Currently learning **Advanced Java & SQL**  
 - 🎯 Goal: Becoming a **Full-Stack Developer**  
